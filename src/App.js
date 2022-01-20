@@ -84,10 +84,13 @@ const comment = {
 
 function App() {
   return (
+    <div>
       <Comment 
       date={comment.date}
       text={comment.text}
-      author={comment.author} />
+      author={comment.author} 
+      />
+    </div>
   );
 }
 
