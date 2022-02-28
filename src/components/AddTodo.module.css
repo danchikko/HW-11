@@ -1,0 +1,15 @@
+.todocard {
+    width: 250px;
+    height: 100px;
+    background-color: greenyellow;
+}
+
+.todoinput {
+    background-color: aqua;
+    margin-top: 20px;
+}
+
+.todobutton{
+    background-color: red;
+    margin-top: 20px;
+}

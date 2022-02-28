@@ -1,0 +1,10 @@
+.container{
+    width: 300px;
+    height: 150px;
+}
+
+.todolist {
+    list-style: none;
+}
+
+
